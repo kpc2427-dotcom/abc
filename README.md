@@ -1,3 +1,3 @@
-# Loyumi website staging
+# Tree API validation
 
-This repository is initialized as a staging target for the Loyumi flagship website.
+This disposable branch verifies atomic Git tree publication.
